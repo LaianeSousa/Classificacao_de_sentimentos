@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Classificacao_de_sentimentos/anexo.git" alt="Logo do Projeto" width="200"/>
+  <img src="anexo.gif" alt="Demonstração do Projeto" width="600"/>
 </p>
 
 <h1 align="center">🔍 Classificador de Sentimentos em Python</h1>
